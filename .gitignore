@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 *.log
+
+snowflake_ml_forecast_dag.py.backup
