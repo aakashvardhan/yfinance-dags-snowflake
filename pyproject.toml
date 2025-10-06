@@ -1,0 +1,10 @@
+[project]
+name = "yfinance-dags-snowflake"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "apache-airflow-providers-snowflake>=6.5.4",
+    "snowflake-connector-python>=3.17.4",
+    "yfinance>=0.2.66",
+]
